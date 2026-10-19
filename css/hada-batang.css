@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Hada Batang";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type-hada-batang@v2026.10.19/woff2/HadaBatang-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hada Batang";
+  src: url("https://cdn.jsdelivr.net/gh/hada0127/hada-type-hada-batang@v2026.10.19/woff2/HadaBatang-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
